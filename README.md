@@ -64,3 +64,7 @@ To run this project locally on your machine:
 
 ---
 *Created as part of an end-to-end Artificial Intelligence and Machine Learning analytics project.*
+
+
+## 📖 Documentation
+For an in-depth breakdown of the project's data architecture, ML models, preprocessing strategy, metrics, and technical analysis, please see our detailed **[Comprehensive Documentation](DOCUMENTATION.md)**.
