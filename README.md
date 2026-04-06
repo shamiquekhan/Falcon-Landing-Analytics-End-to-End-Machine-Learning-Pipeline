@@ -67,4 +67,4 @@ To run this project locally on your machine:
 
 
 ## 📖 Documentation
-For an in-depth breakdown of the project's data architecture, ML models, preprocessing strategy, metrics, and technical analysis, please see our detailed **[Comprehensive Documentation](DOCUMENTATION.md)**.
+For an in-depth breakdown of the project's data architecture, ML models, preprocessing strategy, metrics, and technical analysis, please see our detailed **[Comprehensive Documentation](DOCUMENTATION.md)**.ITS AN END TO END ML PIPELINE.
